@@ -1,0 +1,100 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "EuqP_png",
+			"type": "image",
+			"url": "assets/EuqP.png"
+		},
+		{
+			"name": "heroP_jpg",
+			"type": "image",
+			"url": "assets/heroP.jpg"
+		},
+		{
+			"name": "宝石_25_png",
+			"type": "image",
+			"url": "assets/images/宝石_25.png"
+		},
+		{
+			"name": "宝石_27_png",
+			"type": "image",
+			"url": "assets/images/宝石_27.png"
+		},
+		{
+			"name": "宝石_30_png",
+			"type": "image",
+			"url": "assets/images/宝石_30.png"
+		},
+		{
+			"name": "武器_03_png",
+			"type": "image",
+			"url": "assets/images/武器_03.png"
+		},
+		{
+			"name": "武器_07_png",
+			"type": "image",
+			"url": "assets/images/武器_07.png"
+		},
+		{
+			"name": "武器_11_png",
+			"type": "image",
+			"url": "assets/images/武器_11.png"
+		},
+		{
+			"name": "武器_15_png",
+			"type": "image",
+			"url": "assets/images/武器_15.png"
+		},
+		{
+			"name": "武器_17_png",
+			"type": "image",
+			"url": "assets/images/武器_17.png"
+		},
+		{
+			"name": "盔甲_03_png",
+			"type": "image",
+			"url": "assets/images/盔甲_03.png"
+		},
+		{
+			"name": "盔甲_06_png",
+			"type": "image",
+			"url": "assets/images/盔甲_06.png"
+		},
+		{
+			"name": "盔甲_11_png",
+			"type": "image",
+			"url": "assets/images/盔甲_11.png"
+		},
+		{
+			"name": "盔甲_14_png",
+			"type": "image",
+			"url": "assets/images/盔甲_14.png"
+		},
+		{
+			"name": "npc0_01_png",
+			"type": "image",
+			"url": "assets/images/npc0_01.png"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bgImage,egretIcon,EuqP_png,heroP_jpg,宝石_25_png,宝石_27_png,宝石_30_png,武器_03_png,武器_07_png,武器_11_png,武器_15_png,武器_17_png,盔甲_03_png,盔甲_06_png,盔甲_11_png,盔甲_14_png,npc0_01_png"
+		}
+	]
+}
